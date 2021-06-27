@@ -18,7 +18,7 @@ function Home() {
 export default Home
 
 const Container = styled.div`
-background-image: url('./images/img2.jpg');
+background-image: url('../public/images/img2.jpg');
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
