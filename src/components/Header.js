@@ -7,7 +7,7 @@ function Header() {
         <Container>
             <LeftMenu>
             <a href="#">
-                <img src="/images/logo.png" />
+                <img src="../public/images/logo.png" />
             </a>
             </LeftMenu>
             <RightMenu>
