@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Memories.HQ/static/css/main.b70904fa.chunk.css",
+    "main.js": "/Memories.HQ/static/js/main.e30d113a.chunk.js",
+    "main.js.map": "/Memories.HQ/static/js/main.e30d113a.chunk.js.map",
+    "runtime-main.js": "/Memories.HQ/static/js/runtime-main.bb09d0b0.js",
+    "runtime-main.js.map": "/Memories.HQ/static/js/runtime-main.bb09d0b0.js.map",
+    "static/js/2.6fcaff53.chunk.js": "/Memories.HQ/static/js/2.6fcaff53.chunk.js",
+    "static/js/2.6fcaff53.chunk.js.map": "/Memories.HQ/static/js/2.6fcaff53.chunk.js.map",
+    "static/js/3.6ec5dbf5.chunk.js": "/Memories.HQ/static/js/3.6ec5dbf5.chunk.js",
+    "static/js/3.6ec5dbf5.chunk.js.map": "/Memories.HQ/static/js/3.6ec5dbf5.chunk.js.map",
+    "index.html": "/Memories.HQ/index.html",
+    "static/css/main.b70904fa.chunk.css.map": "/Memories.HQ/static/css/main.b70904fa.chunk.css.map",
+    "static/js/2.6fcaff53.chunk.js.LICENSE.txt": "/Memories.HQ/static/js/2.6fcaff53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb09d0b0.js",
+    "static/js/2.6fcaff53.chunk.js",
+    "static/css/main.b70904fa.chunk.css",
+    "static/js/main.e30d113a.chunk.js"
+  ]
+}
