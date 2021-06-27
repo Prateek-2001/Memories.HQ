@@ -6,8 +6,8 @@ function Header() {
     return (
         <Container>
             <LeftMenu>
-            <a href="#">
-                <img src="../public/images/logo.png" />
+            <a href="App.js">
+                <img src="../public/images/logo.png" alt="logo"/>
             </a>
             </LeftMenu>
             <RightMenu>
